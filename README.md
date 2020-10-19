@@ -90,35 +90,35 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | []() |  |  |  |
 | []() |  |  |  |
 
-## Listen to Some Podcasts
+## Section 7
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | []() |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
 
-## Subscribe to Some YouTube Vids
+## Section 8
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | []() |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
 
-## Watch Some Twitch Channels
+## Section 9
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | []() |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
   
-## Conferences
+## Section 10
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | []() |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
 
-## Free Tools
+## Section 11
 | []() |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
