@@ -2,7 +2,7 @@
 ![Open-Source](https://img.shields.io/badge/Open%20Source-Good%20First%20Issue-blue?style=for-the-badge)
 ![Licence MIT](https://img.shields.io/github/license/msandfor/10-easy-steps?style=for-the-badge)
 ![All Contributors](https://img.shields.io/github/contributors/msandfor/10-easy-steps?style=for-the-badge)
-![Hacktoberfest](https://img.shields.io/github/hacktoberfest/2020/msandfor/10-easy-steps?style=for-the-badge)
+
 
 <p align="center">
 <a href="https://codepen.io/msandfor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="msandfor" height="30" width="30" /></a>
@@ -13,15 +13,11 @@
 <a href="https://www.youtube.com/c/MichelleSandford" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="MichelleSandford" height="30" width="30" /></a>
 </p>
 
-<img src="https://github.com/msandfor/10-Easy-Steps/blob/master/assets/HF2020%20Events%201600x400%20Centered.png" alt="banner that says Hacktoberfest">
+<img src="https://github.com/msandfor/Level-Up/blob/master/assets/Stay%20In%20Bed%20Facebook%20Cover.gif" alt="banner that says Hacktoberfest">
 
 
-# 10-Easy-Steps
-A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code. Go to the issues, pick one of the ones labeled Hacktoberfest for more instructions on how you can contribute and make your first (second, third or forth) pull request.
-
-Remember to sign-up for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) to qualify for your free Tshirt, or to have a Tree planted in your name. The event runs for the Month of October each year - and you can sign up now. I am merging Pull-Requests at once a day during #Hacktoberfest
-
-Please just make one contribution each, and leave some for other Hacktoberfesters. It's nice if your 4 PRs and from 4 seperate repositories.
+# Level-Ip
+A Repository Created to Help Beginners Get Started with Game Development, Design or related fields. 
 
 If you would like to know how you can contribute to this project - do read the [Contributing.MD](https://github.com/msandfor/10-Easy-Steps/blob/master/contributing.md). There are issues for begginers set-up for #Hacktoberfest and labeled as such. Each issue should give you enough guidance to complete your first (2nd, 3rd or 4th) Pull Request - but if they do not, feel free to ask for help by commenting on the issue. Do not be afraid, there is nothing but support here.
 
@@ -271,78 +267,3 @@ MIT Licence
 
 ## Contributors ✨
 
-1. [Yash2737](https://github.com/Yash2737)
-2.  [Newbietestuser](https://github.com/newbietestuser)
-3.  [Msandfor](https://github.com/msandfor)
-4.  [Beagandica](https://github.com/beagandica)
-5.  [Keatnuxsuo](https://github.com/Keatnuxsuo)
-6.  [Nessaamorgan](https://github.com/nessaamorgan)
-7.  [Amykapernick](https://github.com/amykapernick)
-8.  [Premkiran7](https://github.com/premkiran7)
-9.  [Sam0hack](https://github.com/sam0hack)
-10.  [Soumyajitnandi1](https://github.com/soumyajitnandi1)
-11.  [Muhmudrik](https://github.com/muhmudrik)
-12.  [TechGirl007](https://github.com/TechGirl007)
-13.  [jilloestreicher](https://github.com/jilloestreicher)
-14.  [LucasDamascenoS](https://github.com/LucasDamascenoS)
-15.  [Aashwin Vaish](https://github.com/av-dx)
-16.  [jilloestreicher](https://github.com/jilloestreicher)
-17. [divyanshi-ojha](https://github.com/divyanshi-ojha)
-18. [Spencer Taylor](https://github.com/smtaylorslc)
-19. [Sanxy](https://github.com/sanxy)
-20. [Jayant0jha](https://github.com/Jayant0jha)
-21. [punitaojha](https://github.com/punitaojha)
-22. [APalpattuwar7](https://github.com/APalpattuwar7)
-23. [gabrielhicks](https://github.com/gabrielhicks)
-24. [utsav00](https://github.com/utsav00)
-25. [ArvindR07](https://github.com/ArvindR07)
-26. [2KAbhishek](https://github.com/2KAbhishek)
-27. [pranavbaitule](https://github.com/pranavbaitule)
-28. [Retnuh1337](https://github.com/Retnuh1337)
-29. [aortiz24](https://github.com/aortiz24)
-30. [MykolaKolotylo](https://github.com/MykolaKolotylo)
-31. [Raysa Dutra](https://github.com/hi-hi-ray)
-32. [AmieCroteau](https://github.com/amiecroteau)
-33. [Divya247](https://github.com/Divya247)
-34. [yamini27](https://github.com/yamini27)
-35. [Plingooo](https://github.com/Plingooo)
-36. [Abhijit Roy](https://github.com/EmberCS15)
-37. [Ishita Manchanda](https://github.com/ishitacodes)
-38. [Souvik-py](https://github.com/Souvik-py)
-39. [PritikaSabharwal](https://github.com/PritikaSabharwal)
-40. [RemcoHalman](https://github.com/RemcoHalman)
-41. [squarebat](https://github.com/squarebat)
-42. [jessicasalbert](https://github.com/jessicasalbert)
-43. [djl218](https://github.com/djl218)
-44. [Ravigautamcs](https://github.com/ravigautamcs)
-45. [xvidviii](https://github.com/xvidviii)
-46. [Atharva](https://github.com/Atharva8)
-47. [tlchan668](https://github.comtlchan668)
-48. [V Maheysh](https://github.com/Zualemo-xo)
-49. [rossdwill](https://github.com/rossdwill)
-50. [Akilesh Kumar](https://github.com/cyb3r-w0lf)
-51. [Jasir Mohammad Zaeem](https://github.com/JasirZaeem)
-52. [Mithun P](https://github.com/Mithunitp)
-53. [c0d1ng-Devta](https://github.com/c0d1ng-Devta)
-54. [Shweta](https://github.com/Shweta200126)
-55. [kezizhou](https://github.com/kezizhou)
-56. [diisophiia](https://github.com/diisophiia)
-57. [SondreWang](https://github.com/SondreWang)
-58. [bahroze-dev](https://github.com/bahroze-dev)
-59. [AutumnWishes87](https://github.com/AutumnWishes87)
-60. [Gabrijel Golubić](https://github.com/ggolubic)
-61. [Jeff Sherry](https://github.com/justjeff)
-62. [Wanjuntham](https://github.com/wanjuntham)
-63. [Fabricio Cavalcante](https://github.com/fcsouza)
-64. [anothergeorgecoldham](https://github.com/anothergeorgecoldham)
-65. [gaurangagarwal](https://github.com/gaurangagarwal)
-66. [Chetan Nimbalkar](https://github.com/ch374n)
-67. [edward-delossantos](https://github.com/edward-delossantos)
-68. [mccarthykp](https://github.com/mccarthykp)
-69. [panditita](https://github.com/panditita)
-70. [Adeoye Ayomide](https://github.com/Ayomilotunde)
-71. [staysee](https://github.com/staysee)
-72. [RizosKonstantinos](https://github.com/RizosKonstantinos)
-73. [Kay Pea](https://github.com/ravenblack24/)
-74. [Mamadou Diallo](https://github.com/mamadou-diallo)
-75. [Priyankar roy](https://github.com/Flamer17)
