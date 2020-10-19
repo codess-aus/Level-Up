@@ -16,7 +16,7 @@
 <img src="https://github.com/msandfor/Level-Up/blob/master/assets/Stay%20In%20Bed%20Facebook%20Cover.gif" alt="banner that says Hacktoberfest">
 
 
-# Level-Ip
+# Level-Up
 A Repository Created to Help Beginners Get Started with Game Development, Design or related fields. 
 
 Also, I'd love it if you've found this Project useful - Could you please click on the :star: for this repository.
@@ -25,24 +25,22 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 
 
 ## Table of Contents
-* [What, Where, Why?](#what-where-why)
-* [Get into Github](#get-into-github)
-* [Try Some Code](#try-some-code)
-* [Follow Some Mentors](#follow-some-mentors)
-* [Get Involved](#get-involved)
-* [Practice](#practice)
-* [Listen to Some Podcasts](#listen-to-some-podcasts)
-* [Subscribe to Some YouTube Vids](#subscribe-to-some-youtube-vids)
-* [Watch Some Twitch Channels](#watch-some-twitch-channels)
-* [Conferences](#conferences)
-* [Tools](#free-tools)
-* [And Then What?](#and-then-what?)
+* [Section 1](#section-1)
+* [Section 2](#section-2)
+* [Section 3](#section-3)
+* [Section 4](#section-4)
+* [Section 5](#section-5)
+* [Section 6](#section-6)
+* [Section 7](#section-7)
+* [Section 8](#section-8)
+* [Section 9](#section-9)
+* [Section 10](#section-10)
 
 # Resources
 
-## So you want to work in the Games Industry
+## Section1
 
-*Here are some teasers - some whimsical guides, some interesting stories, some tasty treats designed to convince you to take a look at Coding and the magical world of Open Sourcery*
+*Here are some teasers - some whimsical guides, some interesting stories, some tasty treats designed to convince you to take a look at Game Development and Design and the magical world of making Games*
 
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
@@ -62,8 +60,6 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | []() |  |  |  |
 
 ## Section 3
-
-*Now you have some choices, in how you learn. Check out the 100DaysOfCode Community further down and then follow the FreeCodeCamp path to becoming a FullStack Developer... or pick any of the others to have fun while you learn*
 
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------| 
