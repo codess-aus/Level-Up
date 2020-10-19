@@ -1,7 +1,7 @@
 
 ![Open-Source](https://img.shields.io/badge/Open%20Source-Good%20First%20Issue-blue?style=for-the-badge)
 ![Licence MIT](https://img.shields.io/github/license/msandfor/10-easy-steps?style=for-the-badge)
-![All Contributors](https://img.shields.io/github/contributors/msandfor/10-easy-steps?style=for-the-badge)
+
 
 
 <p align="center">
