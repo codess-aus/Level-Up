@@ -26,8 +26,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 
 ## Table of Contents
 * [Section 1](#section-1)
-* [Section 2](#section-2)
-* [Section 3](#section-3)
+* [Games Developer Conferences](#conferences)
+* [Groups and More](#groups)
 * [Section 4](#section-4)
 * [Section 5](#section-5)
 * [Section 6](#section-6)
@@ -49,23 +49,34 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | []() |  |  |  |
 
 
-## Section 2
+## Conferences
 
-*If you have decided to start, start here*
+*Conferences are a great place to connect, understand different career paths and roles and learn new things*
 
-| Description | Author | Step | Comments |  
+| Name | Date | Where | Comments |  
 |------|--------|------------------|----------------|  
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
+| [GCAP - Games Connect Asia Pacific](https://gcap.com.au/) |  |  | Part of Melbourne International Games Week. A must for Indie Game Devs, Designers, Producers, Studio Leads and more |
+| [New Zealand Games Festival](https://nzgamesfest.com/) |  |  | NZ Games Festival is a grassroots, not-for-profit festival run by gamers and game developers |
+| [GDC - Game Developers Conference](https://www.gdconf.com/) |  | San Francisco, CA | GDC is the game industry's premier professional event, championing game developers and the advancement of their craft  |
+| [Unite](https://unity.com/events/unite) | Unity | Nearby | Creativity and interactive learning take center stage |
+| [Meaningful Play](https://meaningfulplay.msu.edu/) |  | East Lansing, MI | DESIGNING & STUDYING GAMES THAT MATTER |
+| [Sweden Game Conference](https://swedengameconference.se/en/) |  | Sweden | Europe's leading conference for students, startups and indie devs |
+| [Games Industry Live](https://live.gamesindustry.biz/) |  |  | A free digital event connecting students with games industry professionals |
+| [Develop Brighton](https://www.developconference.com/) | 2-4 Nov |  | Bringing Together the GameDev Community |
+| [Megamigs](https://megamigs.com/) | Sept and Nov | Canada | Dedicated to the entire video game industry |
+| [Technically Games](https://technicallygames.com.au/) | 21 Nov | Australia | A free, one-day, online conference for game developers in Oceania to come together and share knowledge about the technical aspects of game development and design |
+| [Big Festival](https://www.bigfestival.com.br/homeen.html) | May 5-9 | Bazil | Brazil's Biggest Independant Games Festival |
+| [Name](Website) | Date | Where | Summary |
+| [Name](Website) | Date | Where | Summary |
 
-## Section 3
+## Groups and More
 
-| Name | Author | Step | Comments |  
+| Name | Org | Country | Comments |  
 |------|--------|------------------|----------------| 
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
+| [IGEA](https://igea.net/) | Interactive Games and Entertainment Association | Australia  | Peak industry association representing the voice of Australian and New Zealand companies in the computer and video games industry |
+| [NZGDA](https://nzgda.com/) | NZ Games Developer Association | New Zealand | Not-for-profit incorporated society formed in 2001 to champion, support and grow video game development in New Zealand |
+| [EGDF](http://www.egdf.eu/) | The European Games Developer Federation | Europe | Committed to the stimulation and development of a stable, vibrant and creative
+European games development sector that is competitive globally and recognized culturally |
 
 
 ## Section 4
