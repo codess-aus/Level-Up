@@ -79,12 +79,14 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 European games development sector that is competitive globally and recognized culturally |
 
 
-## Section 4
+## Learn Games Programming 
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
+| [Game Code School](https://gamecodeschool.com/) |  |  | This web site is for complete beginners who want to learn how to make games |
+| [Coursera: Beginning Game Programming with C#](https://www.coursera.org/learn/game-programming) |  |  |  |
+| [Udemy: Learn to program Tic Tac Toe Game in Visual C++ on Windows](https://www.udemy.com/learn-to-program-tic-tac-toe-in-visual-c-on-windows/) |  |  |  |
+| [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/) |  |  | Simple HTML canvas RPG game |
+| [Python Turtle Game](https://bhp-devhub.gitbooks.io/space-turtle-chomp/content/) |  |  | Make your first game with Python |
 
 ## Section 5
 
