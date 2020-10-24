@@ -75,9 +75,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 |------|--------|------------------|----------------| 
 | [IGEA](https://igea.net/) | Interactive Games and Entertainment Association | Australia  | Peak industry association representing the voice of Australian and New Zealand companies in the computer and video games industry |
 | [NZGDA](https://nzgda.com/) | NZ Games Developer Association | New Zealand | Not-for-profit incorporated society formed in 2001 to champion, support and grow video game development in New Zealand |
-| [EGDF](http://www.egdf.eu/) | The European Games Developer Federation | Europe | Committed to the stimulation and development of a stable, vibrant and creative
-European games development sector that is competitive globally and recognized culturally |
-| [Conf](website address) | OrgName | Location  | what it's about |
+| [EGDF](http://www.egdf.eu/) | The European Games Developer Federation | Europe | Committed to the stimulation and development of a stable, vibrant and creative European games development sector that is competitive globally and recognized culturally |
+| [Association](website address) | OrgName | Location  | what it's about |
 
 
 ## Learn Games Programming 
