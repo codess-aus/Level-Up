@@ -92,7 +92,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
-| [Jean Leggett](https://twitter.com/JeanLeggett) |  | Speaker, Mentor, GameDev |  |
+| [Jean Leggett](https://twitter.com/JeanLeggett) |  |  | Speaker, Mentor, GameDev |
 | []() |  |  |  |
 | []() |  |  |  |
 
