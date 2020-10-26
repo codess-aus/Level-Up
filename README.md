@@ -87,6 +87,12 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Udemy: Learn to program Tic Tac Toe Game in Visual C++ on Windows](https://www.udemy.com/learn-to-program-tic-tac-toe-in-visual-c-on-windows/) |  |  |  |
 | [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/) |  |  | Simple HTML canvas RPG game |
 | [Python Turtle Game](https://bhp-devhub.gitbooks.io/space-turtle-chomp/content/) |  |  | Make your first game with Python |
+| [Introduction to Game Development with Unity](https://www.udemy.com/course/introduction-to-game-development-with-unity/) |  |  | Quick and simple video guide to get you up and running with Unity game development |
+| [Code Your First Game: Arcade Classic in JavaScript on Canvas](https://www.udemy.com/course/code-your-first-game/) |  |  | Program a complete game today. No special software or install required. All you need is a text editor and a web browser |
+| [Unity Game Development - Build a Basketball Game](https://www.udemy.com/course/unity-game-developer/) |  |  | Get started with Unity and game development |
+| [Unity Game Development - Build a First Person Shooter](https://www.udemy.com/course/unity-first-person-shooter-tutorial/) |  |  | Master Unity by building your version of Doom or Call of Duty |
+| [Building Unity 2D Platformer](https://www.udemy.com/course/building-unity-2d-platformer/) |  |  | Making 2D Platformer From Scratch |
+| [How to become a Game Artist, Designer, or Developer!](https://www.udemy.com/course/gettingstartedingames/) |  |  | Everything you need to know to start & succeed in the game industry or as a indie game developer |
 
 ## Mentors
 
