@@ -93,6 +93,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Unity Game Development - Build a First Person Shooter](https://www.udemy.com/course/unity-first-person-shooter-tutorial/) |  |  | Master Unity by building your version of Doom or Call of Duty |
 | [Building Unity 2D Platformer](https://www.udemy.com/course/building-unity-2d-platformer/) |  |  | Making 2D Platformer From Scratch |
 | [How to become a Game Artist, Designer, or Developer!](https://www.udemy.com/course/gettingstartedingames/) |  |  | Everything you need to know to start & succeed in the game industry or as a indie game developer |
+| [An Introduction To Video Game Production](https://www.udemy.com/course/an-introduction-to-video-game-production/) |  |  | How Games Get Produced - a tour through the main areas a game producer must manage to ensure a successful game launch |
+
 
 ## Mentors
 
