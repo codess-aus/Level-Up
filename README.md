@@ -94,7 +94,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Building Unity 2D Platformer](https://www.udemy.com/course/building-unity-2d-platformer/) |  |  | Making 2D Platformer From Scratch |
 | [How to become a Game Artist, Designer, or Developer!](https://www.udemy.com/course/gettingstartedingames/) |  |  | Everything you need to know to start & succeed in the game industry or as a indie game developer |
 | [An Introduction To Video Game Production](https://www.udemy.com/course/an-introduction-to-video-game-production/) |  |  | How Games Get Produced - a tour through the main areas a game producer must manage to ensure a successful game launch |
-
+| [Maze Games in GameMaker](https://www.udemy.com/course/maze-games-in-gamemaker/) |  |  |Learn the GameMaker Core Concepts and Create a multilevel Maze Games with Score, Health and Intelligent Monsters |
 
 ## Mentors
 
