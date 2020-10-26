@@ -96,7 +96,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Jess Watson](https://twitter.com/ninjeska) |  |  | Game Designer, Motion Capture, 2D &3D Art |
 | [Amos Wolfe](https://twitter.com/Amos_Wolfe) |  |  | Programmer, #gamedev #indiedev |
 | [Jennifer Scheurle](https://twitter.com/Gaohmee) |  | Check out the Pinned Tweet for threads  | Award Winning Lead Game Designer |
-| []() |  |  |  |
+| [Giselle Rosman](https://twitter.com/jazzrozz) |  |  | Global Game Jam Regional Organiser and one of the 50 most influential women in Games  |
 | []() |  |  |  |
 
 ## Section 6
