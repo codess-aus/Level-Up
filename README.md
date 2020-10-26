@@ -28,8 +28,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 * [Section 1](#section-1)
 * [Games Developer Conferences](#conferences)
 * [Groups and More](#groups)
-* [Section 4](#section-4)
-* [Section 5](#section-5)
+* [Learn Games Programming](#learn-games-programming)
+* [Mentors](#mentors)
 * [Section 6](#section-6)
 * [Section 7](#section-7)
 * [Section 8](#section-8)
@@ -88,11 +88,11 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/) |  |  | Simple HTML canvas RPG game |
 | [Python Turtle Game](https://bhp-devhub.gitbooks.io/space-turtle-chomp/content/) |  |  | Make your first game with Python |
 
-## Section 5
+## Mentors
 
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
-| []() |  |  |  |
+| [Jean Leggett](https://twitter.com/JeanLeggett) |  | Speaker, Mentor, GameDev |  |
 | []() |  |  |  |
 | []() |  |  |  |
 
