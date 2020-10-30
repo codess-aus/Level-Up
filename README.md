@@ -14,7 +14,7 @@
 </p>
 
 
-<img align="right" src="https://github.com/msandfor/Level-Up/blob/master/assets/OIP%20(1).jpg" alt="Image of Xbox Controller">
+<img align="left" src="https://github.com/msandfor/Level-Up/blob/master/assets/OIP%20(1).jpg" alt="Image of Xbox Controller">
 
 
 # Level-Up
