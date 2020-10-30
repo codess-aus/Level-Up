@@ -105,7 +105,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Amos Wolfe](https://twitter.com/Amos_Wolfe) |  |  | Programmer, #gamedev #indiedev |
 | [Jennifer Scheurle](https://twitter.com/Gaohmee) |  | Check out the Pinned Tweet for threads  | Award Winning Lead Game Designer |
 | [Giselle Rosman](https://twitter.com/jazzrozz) |  |  | Global Game Jam Regional Organiser and one of the 50 most influential women in Games  |
-| []() |  |  |  |
+| [Liam Esler](https://twitter.com/liamesler) |  |  | Videogame biz & production geek Fire Managing Director @SummerfallGames Formerly #GCAPConf #GDAA_Oz #gxaustralia #BeamdogInc #Obsidian |
 
 ## Section 6
 | Name | Author | Step | Comments |  
