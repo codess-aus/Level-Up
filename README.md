@@ -13,7 +13,7 @@
 <a href="https://www.youtube.com/c/MichelleSandford" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="MichelleSandford" height="30" width="30" /></a>
 </p>
 
-<img align="right" src="https://github.com/msandfor/Level-Up/blob/master/assets/OIP%20(1).jpg" alt="Image of Xbox Controller">
+<src="https://github.com/msandfor/Level-Up/blob/master/assets/OIP%20(1).jpg" alt="Image of Xbox Controller">
 
 
 # Level-Up
