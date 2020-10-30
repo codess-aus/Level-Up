@@ -13,7 +13,7 @@
 <a href="https://www.youtube.com/c/MichelleSandford" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="MichelleSandford" height="30" width="30" /></a>
 </p>
 
-<img src="https://github.com/msandfor/Level-Up/blob/master/assets/Stay%20In%20Bed%20Facebook%20Cover.gif" alt="banner that says Hacktoberfest">
+<img src="https://github.com/msandfor/Level-Up/blob/master/assets/OIP%20(2).jpg" alt="banner that says Hacktoberfest">
 
 
 # Level-Up
