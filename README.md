@@ -108,35 +108,35 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Giselle Rosman](https://twitter.com/jazzrozz) |  |  | Global Game Jam Regional Organiser and one of the 50 most influential women in Games  |
 | [Liam Esler](https://twitter.com/liamesler) |  |  | Videogame biz & production geek Fire Managing Director @SummerfallGames Formerly #GCAPConf #GDAA_Oz #gxaustralia #BeamdogInc #Obsidian |
 
-## Section 6
+## Learn Games Design
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | []() |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
 
-## Section 7
+## Become a Producer
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | []() |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
 
-## Section 8
+## Game Art
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | []() |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
 
-## Section 9
+## Game Audio
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | []() |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
   
-## Section 10
+## Game Narrative
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | []() |  |  |  |
