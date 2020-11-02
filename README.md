@@ -45,7 +45,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
-| []() |  |  |  |
+| [So you want to be a Games Developer](https://medium.com/swlh/so-you-want-to-be-a-game-developer-e3b7f9f4ac70) | Richard East |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
 
