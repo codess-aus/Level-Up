@@ -26,20 +26,20 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 
 
 ## Table of Contents
-* [Section 1](#section-1)
+* [A Career in Games](#a-career-in-games)
 * [Games Developer Conferences](#conferences)
 * [Groups and More](#groups)
 * [Learn Games Programming](#learn-games-programming)
 * [Mentors](#mentors)
-* [Section 6](#section-6)
-* [Section 7](#section-7)
-* [Section 8](#section-8)
-* [Section 9](#section-9)
-* [Section 10](#section-10)
+* [Learn Games Design](#learn-games-design)
+* [Become a Producer](#become-a-producer)
+* [Game Art](#game-art)
+* [Game Audio](#game-audio)
+* [Game Narrative](#game-narrative)
 
 # Resources
 
-## Section1
+## A Career in Games
 
 *Here are some teasers - some whimsical guides, some interesting stories, some tasty treats designed to convince you to take a look at Game Development and Design and the magical world of making Games*
 
