@@ -56,7 +56,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 
 | Name | Date | Where | Comments |  
 |------|--------|------------------|----------------|  
-| [GCAP - Games Connect Asia Pacific](https://gcap.com.au/) |  |  | Part of Melbourne International Games Week. A must for Indie Game Devs, Designers, Producers, Studio Leads and more |
+| [GCAP - Games Connect Asia Pacific](https://gcap.com.au/) |  | Australia | Part of Melbourne International Games Week. A must for Indie Game Devs, Designers, Producers, Studio Leads and more |
 | [New Zealand Games Festival](https://nzgamesfest.com/) |  |  | NZ Games Festival is a grassroots, not-for-profit festival run by gamers and game developers |
 | [GDC - Game Developers Conference](https://www.gdconf.com/) |  | San Francisco, CA | GDC is the game industry's premier professional event, championing game developers and the advancement of their craft  |
 | [Unite](https://unity.com/events/unite) | Unity | Nearby | Creativity and interactive learning take center stage |
