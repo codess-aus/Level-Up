@@ -15,7 +15,7 @@
 
 <p><img align="center" src="https://github.com/msandfor/Level-Up/blob/master/assets/Ashley_Nicole_DeLeon.gif" alt="Gif of Games Industry Roles"></p>
 <p align="center"></p>
-*Image by Ashley Nicole DeLeon*
+<p align="center">Image by Ashley Nicole DeLeon</p>
 
 
 # Level-Up
