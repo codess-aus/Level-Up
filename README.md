@@ -16,6 +16,9 @@
 <p><img align="center" src="https://github.com/msandfor/Level-Up/blob/master/assets/Untitled%20design.png" alt="Image of a Games Designer and Minecraft"></p>
 <p align="center"></p>
 
+<p><img align="center" src="https://github.com/msandfor/Level-Up/blob/master/assets/Untitled%20design.png" alt="Image of a Games Designer and Minecraft"></p>
+<p align="center"></p>
+
 
 # Level-Up
 A Repository Created to Help Beginners Get Started with Game Development, Design or related fields. 
@@ -46,8 +49,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [So you want to be a Games Developer](https://medium.com/swlh/so-you-want-to-be-a-game-developer-e3b7f9f4ac70) | Richard East |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
+| [Have you thought about these 8 careers in gaming?](https://www.murdoch.edu.au/news/series/series-articles/future-in-technology/have-you-thought-about-these-eight-careers-in-gaming) |  |  |  |
+| [How to break into the video game industry](https://www.gameindustrycareerguide.com/how-to-break-into-video-game-industry/) |  |  |  |
 
 
 ## Conferences
