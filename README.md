@@ -13,11 +13,9 @@
 <a href="https://www.youtube.com/c/MichelleSandford" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="MichelleSandford" height="30" width="30" /></a>
 </p>
 
-<p><img align="center" src="https://github.com/msandfor/Level-Up/blob/master/assets/Untitled%20design.png" alt="Image of a Games Designer and Minecraft"></p>
-<p align="center"></p>
-
 <p><img align="center" src="https://github.com/msandfor/Level-Up/blob/master/assets/Ashley_Nicole_DeLeon.gif" alt="Gif of Games Industry Roles"></p>
 <p align="center"></p>
+*Image by Ashley Nicole DeLeon*
 
 
 # Level-Up
@@ -163,5 +161,6 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 ## License
 MIT Licence
 
-## Contributors ✨
+<p><img align="center" src="https://github.com/msandfor/Level-Up/blob/master/assets/Untitled%20design.png" alt="Image of a Games Designer and Minecraft"></p>
+<p align="center"></p>
 
