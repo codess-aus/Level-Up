@@ -68,7 +68,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Megamigs](https://megamigs.com/) | Sept and Nov | Canada | Dedicated to the entire video game industry |
 | [Technically Games](https://technicallygames.com.au/) | 21 Nov | Australia | A free, one-day, online conference for game developers in Oceania to come together and share knowledge about the technical aspects of game development and design |
 | [Big Festival](https://www.bigfestival.com.br/homeen.html) | May 5-9 | Bazil | Brazil's Biggest Independant Games Festival |
-| [Name](Website) | Date | Where | Summary |
+| [Perth Games Festival](https://letsmakegames.org/perth-games-festival/?fbclid=IwAR1kWg7XCcYQaaAUZaFb2Gv-jU7ionQvylstnsRQaLi3Iq8rtJoso8vlDrI) | Sat Nov 14th 2020 | Perth Town Hall | Summary |
 | [Name](Website) | Date | Where | Summary |
 
 ## Groups and More
