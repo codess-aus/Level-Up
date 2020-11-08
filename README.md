@@ -29,7 +29,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 ## Table of Contents
 * [A Career in Games](#a-career-in-games)
 * [Games Developer Conferences](#conferences)
-* [Groups and More](#groups)
+* [Associations and Organisations](#associations)
 * [Learn Games Programming](#learn-games-programming)
 * [Mentors](#mentors)
 * [Learn Games Design](#learn-games-design)
@@ -38,6 +38,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 * [Game Audio](#game-audio)
 * [Game Narrative](#game-narrative)
 * [Podcasts](#podcasts)
+* [Groups and pages](#groups)
 
 # Resources
 
@@ -72,7 +73,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Perth Games Festival](https://letsmakegames.org/perth-games-festival/?fbclid=IwAR1kWg7XCcYQaaAUZaFb2Gv-jU7ionQvylstnsRQaLi3Iq8rtJoso8vlDrI) | Sat Nov 14th 2020 | Perth Town Hall | Summary |
 | [Name](Website) | Date | Where | Summary |
 
-## Groups and More
+## Associations
 
 | Name | Org | Country | Comments |  
 |------|--------|------------------|----------------| 
@@ -148,6 +149,10 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 ## Podcasts
 | [ Pixelsift](https://www.pixelsift.com.au/) |  |  |  |
 | []() |  |  |  |
+| []() |  |  |  |
+
+## Groups and Pages
+| [Let's Make Games](https://letsmakegames.org/) |  |  |  |
 | []() |  |  |  |
 
 
