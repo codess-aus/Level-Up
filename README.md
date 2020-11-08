@@ -37,6 +37,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 * [Game Art](#game-art)
 * [Game Audio](#game-audio)
 * [Game Narrative](#game-narrative)
+* [Podcasts](#podcasts)
 
 # Resources
 
@@ -144,8 +145,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | []() |  |  |  |
 | []() |  |  |  |
 
-## Section 11
-| []() |  |  |  |
+## Podcasts
+| [ Pixelsift](https://www.pixelsift.com.au/) |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
 
