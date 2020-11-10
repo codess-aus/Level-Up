@@ -147,9 +147,24 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | []() |  |  |  |
 
 ## Podcasts
-| [ Pixelsift](https://www.pixelsift.com.au/) |  |  |  |
+| [Pixelsift](https://www.pixelsift.com.au/) |  |  |  |
 | [Game Developers Radio](https://soundcloud.com/the-game-developers-radio/) |  |  |  |
-| []() |  |  |  |
+| [Another Castle](http://www.another-castle.org/) |  |  |  |
+| [Infinite Ammo](https://open.spotify.com/show/2oXzwYeFuhsZsHMDyfrHLe) |  |  |  |
+| [Building the Game](http://www.buildingthegamepodcast.com/) |  |  |  |
+| [Indie Gamepod](http://www.indiegamepod.com/) |  |  |  |
+| [Brainy Gamer](https://www.brainygamer.com/the_brainy_gamer/podcast/) |  |  |  |
+| [A Life Well Wasted](http://alifewellwasted.com/podcast/) |  |  |  |
+| [Indie Games Podcast](https://archive.org/details/IndieGamesPodcast) |  |  |  |
+| [Coffee wiButterscotch](https://www.bscotch.net/podcast/) |  |  |  |
+| [The Debud Log](http://thedebuglog.com/category/podcast/) |  |  |  |
+| [The Nerdlab](http://nerdlikeaboss.com/category/nerdlab_podcast/) |  |  |  |
+| [BigSushi.FM](https://podcasts.apple.com/us/podcast/bigsushi-fm/id505079889) |  |  |  |
+| [Humans who make Games](https://starburns.audio/podcasts/humans-who-make-games/) |  |  |  |
+| [The Games Design Roundtable](https://thegamedesignroundtable.com/) |  |  |  |
+| [All my ideas are bad](https://www.allmyideasarebad.com/episodes) |  |  |  |
+| [Level Design Lobby](https://leveldesignlobby.libsyn.com/) |  |  |  |
+
 
 ## Groups and Pages
 | [Let's Make Games](https://letsmakegames.org/) |  |  |  |
