@@ -148,7 +148,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 
 ## Podcasts
 | [ Pixelsift](https://www.pixelsift.com.au/) |  |  |  |
-| []() |  |  |  |
+| [Game Developers Radio](https://soundcloud.com/the-game-developers-radio/) |  |  |  |
 | []() |  |  |  |
 
 ## Groups and Pages
