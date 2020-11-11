@@ -127,7 +127,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [The Level Design Process](https://www.youtube.com/watch?v=TyXvj-t2xks) |  |  |  |
 | [How to Tell Stories and Guide Players Through Level Design](https://www.youtube.com/watch?v=9RbXTv7iNbw) |  |  |  |
 | [The Importance of Nothing: Using Negative Space in Level Design](https://www.youtube.com/watch?v=GZ99gAb4T0o) |  |  |  |
-| []() |  |  |  |
+| [5 TIPS for Designing Better Maps & Levels](https://www.youtube.com/watch?v=WoNUaqWJrcI) |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
