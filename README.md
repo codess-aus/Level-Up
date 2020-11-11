@@ -125,7 +125,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Level Design](https://youtu.be/wRkXuTMWrG8) |  |  |  |
 | [Level Design at Ubisoft](https://www.youtube.com/watch?v=gwGOkKdb-SM) |  |  |  |
 | [The Level Design Process](https://www.youtube.com/watch?v=TyXvj-t2xks) |  |  |  |
-| []() |  |  |  |
+| [How to Tell Stories and Guide Players Through Level Design](https://www.youtube.com/watch?v=9RbXTv7iNbw) |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
