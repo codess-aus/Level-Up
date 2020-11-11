@@ -123,7 +123,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Complete Method for Character Design](https://www.youtube.com/watch?v=XytDmEr760k) |  |  |  |
 | [5 Tips for Level Design](https://www.youtube.com/watch?v=1nySUFcTgsw) |  |  |  |
 | [Level Design](https://youtu.be/wRkXuTMWrG8) |  |  |  |
-| []() |  |  |  |
+| [Level Design at Ubisoft](https://www.youtube.com/watch?v=gwGOkKdb-SM) |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
