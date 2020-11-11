@@ -115,7 +115,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [How to Create a Game Design Document](https://www.gamedesigning.org/learn/game-design-document/) |  |  |  |
-| []() |  |  |  |
+| [Character Design Tutorial](https://www.youtube.com/watch?v=u3g6OANZyxM) |  |  |  |
 | []() |  |  |  |
 
 ## Become a Producer
