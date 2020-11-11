@@ -122,6 +122,14 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [How to Design Characters](https://www.youtube.com/watch?v=dF4FKfQvJyQ) |  |  |  |
 | [Complete Method for Character Design](https://www.youtube.com/watch?v=XytDmEr760k) |  |  |  |
 | [5 Tips for Level Design](https://www.youtube.com/watch?v=1nySUFcTgsw) |  |  |  |
+| [Level Design](https://youtu.be/wRkXuTMWrG8) |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
