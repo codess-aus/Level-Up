@@ -128,8 +128,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [How to Tell Stories and Guide Players Through Level Design](https://www.youtube.com/watch?v=9RbXTv7iNbw) |  |  |  |
 | [The Importance of Nothing: Using Negative Space in Level Design](https://www.youtube.com/watch?v=GZ99gAb4T0o) |  |  |  |
 | [5 TIPS for Designing Better Maps & Levels](https://www.youtube.com/watch?v=WoNUaqWJrcI) |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
+| [Making Your First Game: Basics - How To Start Your Game Development](https://www.youtube.com/watch?v=z06QR-tz1_o) |  |  |  |
+| [Designing Game Rules](https://www.youtube.com/watch?v=vuThpe-Rgxs) |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
