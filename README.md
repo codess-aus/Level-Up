@@ -52,6 +52,15 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Have you thought about these 8 careers in gaming?](https://www.murdoch.edu.au/news/series/series-articles/future-in-technology/have-you-thought-about-these-eight-careers-in-gaming) |  |  |  |
 | [How to break into the video game industry](https://www.gameindustrycareerguide.com/how-to-break-into-video-game-industry/) |  |  |  |
 
+## Start at the Beginning
+| Name | Author | Step | Comments |  
+|------|--------|------------------|----------------|  
+| [Make a Basic video game](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL) |  | Brackeys  | Make a Game Playlist |
+
+## YouTube Channels
+| Name | Author | Step | Comments |  
+|------|--------|------------------|----------------|  
+| [Learn how to make video games](https://www.youtube.com/c/Brackeys/) |  | Brackeys  | Make a Game Playlist |
 
 ## Conferences
 
