@@ -140,7 +140,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Making Your First Game: Basics - How To Start Your Game Development](https://www.youtube.com/watch?v=z06QR-tz1_o) |  |  |  |
 | [Designing Game Rules](https://www.youtube.com/watch?v=vuThpe-Rgxs) |  |  |  |
 | [What Makes Great Games Great?](https://www.youtube.com/watch?v=aC3c_pcWwIQ) |  |  |  |
-| []() |  |  |  |
+| [What New Game Developers are Doing Wrong](https://www.youtube.com/watch?v=MPp1iIC_PJ0) |  |  |  |
 | []() |  |  |  |
 
 ## Become a Producer
