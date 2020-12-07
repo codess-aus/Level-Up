@@ -146,8 +146,12 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 ## Become a Producer
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
-| []() |  |  |  |
-| []() |  |  |  |
+| [How To Become A Video Game Producer](https://www.gameindustrycareerguide.com/how-to-become-a-video-game-producer/) | Games Industry Career Guide  |  |  |
+| [How to become a video game producer](https://www.careerexplorer.com/careers/video-game-producer/how-to-become/) | Sokanu |  |  |
+| [Ask the Experts: 'How to Become a Producer'](https://www.gamasutra.com/view/news/103087/Ask_the_Experts_How_to_Become_a_Producer.php) | Gamasutra  |  |  |
+| [Career Guide: Becoming A Game Producer](https://www.askaboutgames.com/career-guide-becoming-a-game-producer) | Ask About Games |  |  |
+| [Games producer](https://www.screenskills.com/careers/job-profiles/games/production/games-producer/) | Screen Skills  |  |  |
+| [What is a Games Producer](https://en.wikipedia.org/wiki/Video_game_producer) | Wikipedia |  |  |
 | []() |  |  |  |
 
 ## Game Art
