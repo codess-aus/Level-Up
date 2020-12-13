@@ -159,7 +159,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 |------|--------|------------------|----------------|  
 | [Game Design: Art and Concepts Specialization](https://www.coursera.org/specializations/game-design) | Coursera |  | Create Imaginative Games. Design a video game for independent distribution in just four courses. |
 | [2D Game Art for Non-Artists](https://www.udemy.com/course/2d-game-art-for-non-artists/) | Udemy  |  | Create beautiful cartoon art with a modern edge, and harness light and shading techniques to give your work depth |
-| []() |  |  |  |
+| [Draw the sword: easy way to create 2d game art in 30 minutes](https://www.udemy.com/course/draw-the-sword-easy-way-to-create-2d-game-art-in-30-minutes/) |  |  | You will get 2 swords also if You are NOT designer or artist. For beginners but with nice results |
 | []() |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
