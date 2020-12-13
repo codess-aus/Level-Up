@@ -158,6 +158,10 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [Game Design: Art and Concepts Specialization](https://www.coursera.org/specializations/game-design) | Coursera |  | Create Imaginative Games. Design a video game for independent distribution in just four courses. |
+| [2D Game Art for Non-Artists](https://www.udemy.com/course/2d-game-art-for-non-artists/) | Udemy  |  | Create beautiful cartoon art with a modern edge, and harness light and shading techniques to give your work depth |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
 
