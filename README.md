@@ -157,7 +157,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 ## Game Art
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
-| []() |  |  |  |
+| [Game Design: Art and Concepts Specialization](https://www.coursera.org/specializations/game-design) | Coursera |  | Create Imaginative Games. Design a video game for independent distribution in just four courses. |
 | []() |  |  |  |
 | []() |  |  |  |
 
