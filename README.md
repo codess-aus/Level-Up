@@ -51,6 +51,12 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [So you want to be a Games Developer](https://medium.com/swlh/so-you-want-to-be-a-game-developer-e3b7f9f4ac70) | Richard East |  |  |
 | [Have you thought about these 8 careers in gaming?](https://www.murdoch.edu.au/news/series/series-articles/future-in-technology/have-you-thought-about-these-eight-careers-in-gaming) |  |  |  |
 | [How to break into the video game industry](https://www.gameindustrycareerguide.com/how-to-break-into-video-game-industry/) |  |  |  |
+| [Become a Video Game Artist in 5 Steps](https://www.gamedesigning.org/career/game-artist/) |  |  |  |
+| [Professional Profile: Storyboard Artist](https://www.gamedesigning.org/career/storyboard-artist/) |  |  |  |
+| [The Video Game Developer Career Profile](https://www.gamedesigning.org/career/game-developer/) |  |  |  |
+| [Professional Profile: Flash Animation](https://www.gamedesigning.org/career/flash-animator/) |  |  |  |
+| [Professional Profile: 3D Modeler](https://www.gamedesigning.org/career/3d-modeler/) |  |  |  |
+
 
 ## Start at the Beginning
 | Name | Author | Step | Comments |  
