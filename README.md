@@ -67,6 +67,10 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [Learn how to make video games](https://www.youtube.com/c/Brackeys/) |  | Brackeys  | Make a Game Playlist |
+| [JavaScript Tutorial: Build Flappy Bird and Doodle Jump](https://youtu.be/8xPsg6yv7TU) |  | FreeCodeCamp  | Improve your JavaScript skills by building two popular millennial games: Doodle Jump & Flappy Bird |
+
+
+
 
 ## Conferences
 
