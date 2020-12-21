@@ -63,6 +63,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 |------|--------|------------------|----------------|  
 | [Make a Basic video game](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL) |  | Brackeys  | Make a Game Playlist |
 | [Developing a puzzle mobile app](https://www.youtube.com/watch?v=za7_QMFjQNM&feature=youtu.be) |  | Luis Beltran  | This session is about having fun developing a Xamarin mobile application, which is a Microsoft technology for Android and iOS apps creation using C# |
+| [Developing a puzzle mobile app](https://arcade.makecode.com/) |  | MakeCode  | MakeCode, an educational programming platform backed by various organizations. Learn to make arcade games |
 
 
 ## YouTube Channels
@@ -71,9 +72,6 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Learn how to make video games](https://www.youtube.com/c/Brackeys/) |  | Brackeys  | Make a Game Playlist |
 | [JavaScript Tutorial: Build Flappy Bird and Doodle Jump](https://youtu.be/8xPsg6yv7TU) |  | FreeCodeCamp  | Improve your JavaScript skills by building two popular millennial games: Doodle Jump & Flappy Bird |
 | Pico-8 Tutorial - Breakout](https://www.youtube.com/playlist?list=PLea8cjCua_P0qjjiG8G5FBgqwpqMU7rBk) |  | Lazy Devs  | A longer beginner level tutorial about how to make a Breakout clone on Pico-8.d |
-
-
-
 
 
 ## Conferences
