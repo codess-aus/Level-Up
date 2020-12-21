@@ -62,6 +62,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [Make a Basic video game](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL) |  | Brackeys  | Make a Game Playlist |
+| [Developing a puzzle mobile app](https://www.youtube.com/watch?v=za7_QMFjQNM&feature=youtu.be) |  | Luis Beltran  | This session is about having fun developing a Xamarin mobile application, which is a Microsoft technology for Android and iOS apps creation using C# |
+
 
 ## YouTube Channels
 | Name | Author | Step | Comments |  
