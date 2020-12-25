@@ -181,7 +181,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 ## Game Audio
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
-| []() |  |  |  |
+| [Creating Game Audio](https://www.coursera.org/lecture/game-development/creating-game-audio-ZJfQM) | Coursera |  | If you love games and want to learn how to make them, then this course will start you down that path. Making games is a creative and technical art form |
 | []() |  |  |  |
 | []() |  |  |  |
   
