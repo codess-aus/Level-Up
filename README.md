@@ -71,8 +71,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 |------|--------|------------------|----------------|  
 | [Learn how to make video games](https://www.youtube.com/c/Brackeys/) |  | Brackeys  | Make a Game Playlist |
 | [JavaScript Tutorial: Build Flappy Bird and Doodle Jump](https://youtu.be/8xPsg6yv7TU) |  | FreeCodeCamp  | Improve your JavaScript skills by building two popular millennial games: Doodle Jump & Flappy Bird |
-| Pico-8 Tutorial - Breakout](https://www.youtube.com/playlist?list=PLea8cjCua_P0qjjiG8G5FBgqwpqMU7rBk) |  | Lazy Devs  | A longer beginner level tutorial about how to make a Breakout clone on Pico-8.d |
-| JavaScript Snake Game Tutorial Using Functional Programming](https://www.youtube.com/watch?v=bRlvGoWz6Ig) |  | Free Code Camp  |Build a Snake Game in JavaScript using Functional Programming concepts. No libraries are used in this JavaScript tutorial. |
+| [Pico-8 Tutorial - Breakout](https://www.youtube.com/playlist?list=PLea8cjCua_P0qjjiG8G5FBgqwpqMU7rBk) |  | Lazy Devs  | A longer beginner level tutorial about how to make a Breakout clone on Pico-8.d |
+| [JavaScript Snake Game Tutorial Using Functional Programming](https://www.youtube.com/watch?v=bRlvGoWz6Ig) |  | Free Code Camp  |Build a Snake Game in JavaScript using Functional Programming concepts. No libraries are used in this JavaScript tutorial. |
 
 
 ## Conferences
